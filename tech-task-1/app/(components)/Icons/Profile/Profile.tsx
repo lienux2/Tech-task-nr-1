@@ -22,7 +22,15 @@ export const Profile = () => {
             <stop offset="1" stopColor="#9FA6C1" />
           </linearGradient>
         </defs>
-        <text x="11.5" y="20.5" fontSize="14" fontWeight="normal" fill="#181E34">R</text>
+        <text
+          x="11.5"
+          y="20.5"
+          fontSize="14"
+          fontWeight="normal"
+          fill="#181E34"
+        >
+          R
+        </text>
       </svg>
     </>
   );

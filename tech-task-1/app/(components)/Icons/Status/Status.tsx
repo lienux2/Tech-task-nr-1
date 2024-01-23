@@ -1,4 +1,4 @@
-export const Status = () => {
+export const Status = ({ fill }: { fill: string }) => {
   return (
     <>
       <svg
@@ -6,9 +6,8 @@ export const Status = () => {
         width="6"
         height="6"
         viewBox="0 0 6 6"
-        fill="none"
       >
-        <circle cx="3" cy="3" r="3" fill="#B8143D" />
+        <circle cx="3" cy="3" r="3" fill={fill} />
       </svg>
     </>
   );
