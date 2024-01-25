@@ -1,0 +1,44 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "title": "Main entry Intercom",
+      "connection": 0,
+      "status": "offline",
+      "model": "2N Verso",
+      "conStat": "235/235 messages over 28 days"
+    },
+    {
+      "id": 2,
+      "title": "Side Entry Intercom",
+      "connection": 0,
+      "status": "offline",
+      "model": "2N Verso",
+      "conStat": "90/10 messages over 28 days"
+    },
+    {
+      "id": 3,
+      "title": "Main entry Intercom",
+      "connection": 0,
+      "status": "offline",
+      "model": "2N Verso",
+      "conStat": "0 messages over 28 days"
+    },
+    {
+      "id": 4,
+      "title": "Main entry Intercom",
+      "connection": 100,
+      "status": "online",
+      "model": "2N Verso",
+      "conStat": "0 messages over 28 days"
+    },
+    {
+      "id": 5,
+      "title": "Side Entry Intercom",
+      "connection": 75,
+      "status": "online",
+      "model": "2N Verso",
+      "conStat": "10 messages over 28 days"
+    }
+  ]
+}
