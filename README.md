@@ -7,20 +7,19 @@ and libraries:
 
 ## Getting Started
 
-1. Cd to project folder
-2. Install dependancies
+1. Install dependancies
 
 ```bash
 npm i
 ```
 
-3. Run development server
+2. Run development server
 
 ```bash
 npm run dev
 ```
 
-4. Watch json-server
+3. Watch json-server
 
 ```bash
 json-server db.json --port 5000
